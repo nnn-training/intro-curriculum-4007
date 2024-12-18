@@ -25,6 +25,7 @@ app.get("/", (c) => {
             `}
         <div id="block" class="block"></div>
         <button id="scaling-button">拡大縮小</button>
+        <button id="moving-button">移動</button>
         <div id="root"></div>
       `,
     ),
